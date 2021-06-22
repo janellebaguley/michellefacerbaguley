@@ -1,5 +1,5 @@
 import './Home.css'
-import cover from '../../asset/cover.jpeg'
+import cover from '../../photo/cover.jpeg'
 
 function Home() {
     return(

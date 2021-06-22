@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {withRouter} from 'react-router-dom'
 import './Books.css'
-import cover from '../../asset/cover.jpeg'
+import cover from '../../photo/cover.jpeg'
 import amazon from '../../assets/amazon.svg'
 import archway from '../../assets/archway.jpg'
 import barnes from '../../assets/barnesandnoble.png'
