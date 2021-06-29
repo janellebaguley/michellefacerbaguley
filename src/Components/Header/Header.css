@@ -32,3 +32,15 @@
    margin: 0 0 0 40px;
    z-index: 10;
  } 
+ @media(max-width: 768px) {
+  .container {
+   height: 20px;
+  }
+  h1 {
+    font-size: 26px;
+  }
+}
+
+@media(max-width: 570px){
+
+}
